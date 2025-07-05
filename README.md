@@ -94,4 +94,4 @@ Export to .exe using pyinstaller for Windows
 ## 🌐 Connect
 📧 Email: riteshwork.work@gmail.com
 
-🌐 Portfolio: yourportfolio.com
+🌐 LinkedIn: 
