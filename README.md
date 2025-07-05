@@ -81,14 +81,13 @@ Save history/log of generated passwords
 Export to .exe using pyinstaller for Windows
 
 ## 📁 Project Structure
-markdown
-Copy
-Edit
+```
 .
 ├── password_generator_gui.py
 ├── README.md
 └── screenshots/
     └── app_gui.png
+```
 
 ### Made with ❤️ by Ritesh Kumar
 
