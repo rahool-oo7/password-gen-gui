@@ -93,6 +93,7 @@ Export to .exe using pyinstaller for Windows
 ### Made with ❤️ by Ritesh Kumar
 
 ## 🌐 Connect
-📧 Email: riteshwork.work@gmail.com
-
-🌐 LinkedIn: 
+- 🌍 **Location**: Bangalore, India
+- 📧 **Email**: riteshwork.work@gmail.com
+- 💼 **LinkedIn**: [ritesh-ai](https://linkedin.com/in/ritesh-ai)
+- 💻 **GitHub**: [rahool-oo7](https://github.com/rahool-oo7)
