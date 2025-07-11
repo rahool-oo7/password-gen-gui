@@ -69,6 +69,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 0123456789
 @ # $ % & * ! ?
+
 ```
 
 ## 💡 Future Enhancements
